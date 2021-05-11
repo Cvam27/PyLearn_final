@@ -7,5 +7,3 @@ for item in list:
     elif item == "e":
         continue
     print(item)
-
-time.c
