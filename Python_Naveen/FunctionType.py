@@ -20,6 +20,6 @@ getstudentinfo(Shivam = 10, Raj = 20, Yash = 30)
 
 #Lambda function = A function w/o any name
 
-cube = lambda x: x+x/x
+cube = lambda x: (x+x) / x
 
 print(cube(5))
